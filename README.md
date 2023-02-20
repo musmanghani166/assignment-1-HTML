@@ -1,2 +1,2 @@
 # assignment-1-HTML
-I am trainning to application dewelpment
+I am Learning MERN Stack Development from saylani
